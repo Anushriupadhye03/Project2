@@ -1,3 +1,5 @@
 # New project
 
-This projectwas created from local system
+This project was created from local system
+
+Created by Anushri Upadhye
